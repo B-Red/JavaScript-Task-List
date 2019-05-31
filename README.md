@@ -6,4 +6,4 @@ This is a basic task list app that utilizes DOM manipulation and Local Storage.
 * Materialize Framework
 
 ## Demo
-
+![](tasklist.gif)
