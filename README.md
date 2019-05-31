@@ -7,4 +7,3 @@ This is a basic task list app that utilizes DOM manipulation and Local Storage.
 
 ## Demo
 ![](tasklist.gif)
-![](tasklist320.gif)
